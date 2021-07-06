@@ -21,3 +21,9 @@ Enable SSL expiry reminders: leave it incase you want paid
 
 okay now you gotta save it monitor
 next time you run the bot on repl.it you will have your bot running 24/7
+
+btw you can add more commands if you want
+
+discord devlelopers: https://discord.com/developers/applications
+uptimerobot: https://uptimerobot.com/
+replit: https://repl.it
