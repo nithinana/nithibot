@@ -1,5 +1,5 @@
 # nithibot
-ight so if your reading this here is all u probs wanna know
+ight so if your reading this here is all u probs wanna know how to set up this simple response bot in node.js
 
 COMMAND NAME is the command thats going to be replied to by the bot (you can replace it with anything)
 COMMAND RESPONSE is the the response to COMMAND NAME (you can change to anything you like as well)
